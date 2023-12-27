@@ -1,4 +1,4 @@
-# Bookstore Web Application with Docker
+# Bookstore Web Application
 
 ## Description
 The Bookstore Web Application is a Java Servlet-based web application that allows users to search for books from a MySQL database. The application follows the REST style, enabling users to sort books by category, keyword, or view all books in the catalog.
